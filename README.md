@@ -1,2 +1,5 @@
 # Site Rafs OK
- Primeiro repositório teste
+ Primeiro repositório do curso de Git e GitHub
+
+ Aprendendo com GitHub e VSCode
+ 
